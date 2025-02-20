@@ -55,7 +55,7 @@ export default function IntermediatePage() {
             LinkedIn
           </a>
           <a 
-            href="https://www.linkedin.com/in/rhuan-natan-176370329/" 
+            href="https://github.com/RhuanNatan" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-full font-medium transition-colors"
