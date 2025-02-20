@@ -1,6 +1,5 @@
 export default function IntermediatePage() {
   return (
-    
     <main className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white p-8">
       <nav className="flex justify-between items-center mb-16">
         <h1 className="text-3xl font-bold">Meu Portfólio</h1>
@@ -41,13 +40,26 @@ export default function IntermediatePage() {
           Estou sempre aberto a novas oportunidades e colaborações.
         </p>
         <div className="flex justify-center space-x-6">
-          <a href="#" className="bg-teal-500 hover:bg-teal-600 px-8 py-3 rounded-full font-medium transition-colors">
+          <a 
+            href="mailto:rhuanmendes995@gmail.com" 
+            className="bg-teal-500 hover:bg-teal-600 px-8 py-3 rounded-full font-medium transition-colors"
+          >
             Email
           </a>
-          <a href="#" className="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-full font-medium transition-colors">
+          <a 
+            href="https://www.linkedin.com/in/rhuan-natan-176370329/" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-full font-medium transition-colors"
+          >
             LinkedIn
           </a>
-          <a href="#" className="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-full font-medium transition-colors">
+          <a 
+            href="https://www.linkedin.com/in/rhuan-natan-176370329/" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-full font-medium transition-colors"
+          >
             GitHub
           </a>
         </div>
