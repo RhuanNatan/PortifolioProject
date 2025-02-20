@@ -1,7 +1,5 @@
-export default function IntermediatePage() {
+export default function Home() {
   return (
-    <div>
-      <h1 style="color: purple;">Eu vou comer seu cu no uno</h1>
-    </div>
+    <Main style="color: purple;">Eu vo comer seu cu no Unooo</Main>
   );
-};
+}
